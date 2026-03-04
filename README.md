@@ -40,7 +40,7 @@ my project/
 │       ├── controller.py     # 核心控制器，管理连接与分发
 │       └── services_ai.py    # AI 启发式优化算法实现
 └── zemax tool/               # 独立工具集（原型验证脚本）
-    └── zemax tool.py         # 包含 SmartLabeler 与 Evolution 核心算法
+    └── zemax tool.py         # 包含玻璃替换，设置变量等功能
 
 ```
 
